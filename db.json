@@ -1,0 +1,41 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juancho ",
+      "empresa": "Codigo Con Juan",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "sin notas",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Julio Sesai",
+      "empresa": "Pegaso SA de CV",
+      "email": "antonio.sesai@gmail.com",
+      "telefono": "9513159711",
+      "notas": "CHamba!!",
+      "id": 6
+    }
+  ]
+}
